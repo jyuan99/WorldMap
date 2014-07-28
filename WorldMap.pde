@@ -74,7 +74,7 @@ class city{
 
 city[] locations = {
 //  new city(132, 203),
-//  new city(131, 199), 
+  new city(131, 199), 
   new city(270, 190), 
   new city(248, 238), 
   new city(799, 218), 
